@@ -1,0 +1,29 @@
+.top-brands {
+    padding-top: 30px;
+
+}
+
+.top-brands-cover{
+    height: 120px;
+    width: 120px;
+    border-radius: 10%;
+    background-color: var(--primary-bg);
+    box-shadow: var(--collecion-shadow);
+    border: 0.5px ;
+}
+
+.top-brands-image {
+    height: 100%;
+    width: 100%;
+    border-radius: inherit;
+    object-fit: cover;
+
+}
+
+.brand-delivery-time{
+    line-height: 1.2;
+    font-weight: 400;
+    color: rgb(28, 28, 28);
+    font-size: 1.1rem;
+    margin: 1rem 0px;
+}
